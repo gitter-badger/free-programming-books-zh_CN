@@ -1,6 +1,8 @@
 免费的编程中文书籍索引
 ============================
 
+[![Join the chat at https://gitter.im/free-programming-books-zh_CN/Lobby](https://badges.gitter.im/free-programming-books-zh_CN/Lobby.svg)](https://gitter.im/free-programming-books-zh_CN/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 免费的编程中文书籍索引，欢迎投稿。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
